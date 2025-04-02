@@ -1,7 +1,7 @@
 # 💫 This is Oday! <br>
 🛠 I’m currently working on building and expanding Sirius, my company specializing in websites, eCommerce, hosting, and digital solutions.<br>🤝 I’m looking to collaborate on web development projects, UI/UX design, and innovative digital solutions.<br>📌 I’m looking for help with growing my business and refining strategies for scaling.<br>🌱 I’m currently learning advanced cybersecurity and business development strategies.<br>💬 Ask me about web development, UI/UX design, cybersecurity, and business growth.<br>⚡ Fun fact: I love blending tech and design to create seamless digital experiences!
 
-
+ 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/odaynoman) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/odaynoman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oday.noman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/odaynoman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/odaynoman) 
 
