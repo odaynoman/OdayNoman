@@ -1,5 +1,5 @@
-# 💫 This is Oday! <br>
-🛠 I’m currently working on building and expanding Sirius, my company specializing in websites, eCommerce, hosting, and digital solutions.<br>🤝 I’m looking to collaborate on web development projects, UI/UX design, and innovative digital solutions.<br>📌 I’m looking for help with growing my business and refining strategies for scaling.<br>🌱 I’m currently learning advanced cybersecurity and business development strategies.<br>💬 Ask me about web development, UI/UX design, cybersecurity, and business growth.<br>⚡ Fun fact: I love blending tech and design to create seamless digital experiences!
+# This is Oday! <br>
+Currently working on building and expanding ideas, having fun in web building and SaaS explorations<br> I love blending tech and design to create seamless digital experiences!
  
    
 ## 🌐 Socials: 
